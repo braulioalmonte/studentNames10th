@@ -1,2 +1,4 @@
-# studentNames10th
-Repositorio de ejemplo para aprender colaboración y control de versiones (10th Grade)
+Name: Isaac Price
+Age: 15
+Favorite_games: Marvel rivals, DST, GOW
+Favorite_movies: Deadpool & Wolverine, Jaws, Top gun
