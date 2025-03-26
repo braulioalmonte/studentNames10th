@@ -1,0 +1,5 @@
+Nombre: Sergio Nuberg Rojas
+Edad: 15
+Sexo: Masculino
+Pelicula favorita: White chicks
+Serie favorita: Kuroko no basket
